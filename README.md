@@ -94,4 +94,5 @@ Por padrão o app em react está na pasta `public/app` da Raiz do projeto.
 
 O front-end ainda está em desenvolvimento, para ter funcionando todas as páginas e gerenciamento.
 
-![Screenshot from 2021-06-03 22-09-10](https://user-images.githubusercontent.com/7757352/120730683-6a37cb00-c4b8-11eb-959b-64232da24ec6.png)
+![Screenshot from 2021-06-14 14-54-11](https://user-images.githubusercontent.com/7757352/121941193-58122400-cd25-11eb-9b9d-f399293d9d9c.png)
+
